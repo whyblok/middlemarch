@@ -6,11 +6,10 @@
           <div class="logo-home"></div>
           <div class="footer-text">
             <div class="social-links">
-              <span class="social twitter"><a href="https://twitter.com/pineviewlabs" target="_blank">Twitter</a></span>
               <span class="social github"><a href="https://github.com/pineviewlabs" target="_blank">Github</a></span>
             </div>
 
-            <p>© 2022 Middlemarch. All Right Reserved.</p>
+            <p>© 2022 Мидлмарч. Все права защищены.</p>
           </div>
         </div>
       </div>

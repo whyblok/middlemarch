@@ -1,6 +1,6 @@
 .new-arrivals-panel h1 {
   text-align: center;
-  color: #e1bee7;
+  color: #620174;
   margin-top: 30px;
   margin-bottom: 30px;
   font-size: 70px;
@@ -21,10 +21,10 @@
   height: 250px
 }
 .new-arrival .book-category {
-  color: #e6ee9c !important;
+  color: #ee9cd9 !important;
 }
 .new-arrival .book-title {
-  color: #f0ad4e !important;
+  color: #966ea7 !important;
 }
 .new-arrival .book-author {
   color: #e1bee7 !important;
@@ -66,7 +66,7 @@
   padding: 0;
 }
 .new-arrival button.add-to-cart:hover {
-  background-color: #2c3e50!important;
+  background-color: #6a1f81!important;
 }
 button.add-to-cart img{
   width: 40px;
