@@ -9,7 +9,7 @@
 
 <style>
 html, body {
-  background-color: #3f1652!important;
+  background-color: #331342!important;
 }
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;

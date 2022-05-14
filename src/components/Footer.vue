@@ -6,10 +6,10 @@
           <div class="logo-home"></div>
           <div class="footer-text">
             <div class="social-links">
-              <span class="social github"><a href="https://github.com/pineviewlabs" target="_blank">Github</a></span>
+              <span class="social github"><a href="https://github.com/whyblok/middlemarch" target="_blank">Github</a></span>
             </div>
 
-            <p>© 2022 Мидлмарч. Все права защищены.</p>
+            <p>© 2022 Мидлмарч. Лабораторная работа 4.</p>
           </div>
         </div>
       </div>
@@ -21,11 +21,11 @@
 footer {
   min-height: 300px;
   text-align: center;
-  background-color: #111222;
+  background-color: #000000;
   padding-top: 120px;
   font-size: 16px;
   font-weight: 200;
-  color: #969696;
+  color: #b9b6b6;
   padding-right: 20px;
   padding-bottom: 20px;
 }

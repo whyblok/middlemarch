@@ -42,7 +42,7 @@ export default {
 
       promo: {
         code: 'EXAMPLECODE',
-        value: 50
+        value: 99
       }
     };
   },

@@ -1,50 +1,50 @@
 {
   "books": [
     {
-      "title": "The Memory Police",
-      "author": "Yoko Ogawa",
-      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544335119l/37004370.jpg",
-      "price": 14.72,
-      "currency": "$",
-      "category": "Science Fiction > Dystopian",
+      "title": "Полиция памяти",
+      "author": "Юко Огава",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/A1vU3G3l7ZL.jpg",
+      "price": 999,
+      "currency": "₽",
+      "category": "Научная фантастика > Антиутопия",
       "isbn13": 9781101911815,
-      "description": "On an unnamed island, objects are disappearing: first hats, then ribbons, birds, roses..."
+      "description": "Роман, похожий на сон и меланхоличный по тону в манере, вдохновленной писателем-модернистом Ф. Кафкой."
     },
 
     {
-      "title": "Rhinoceros and Other Plays",
-      "author": "Eugène Ionesco",
-      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347454436l/323823.jpg",
-      "price": 16.00,
-      "currency": "$",
-      "category": "Plays > Theatre",
+      "title": "Носорог и другие пьесы",
+      "author": "Эжен Ионеско",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61FGm95+YHL.jpg",
+      "price": 1249,
+      "currency": "₽",
+      "category": "Пьесы > Драма",
       "publisher": "Grove Press",
       "isbn13": 9780802130983,
-      "description": "A rhinoceros suddenly appears in a small town, tramping through its peaceful streets."
+      "description": "В Носороге, как и в своих более ранних пьесах, Ионеско поражает публику миром, который неизменно взрывается ..."
     },
 
     {
-      "title": "Memento Mori",
-      "author": "Muriel Spark",
-      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348186701l/120158.jpg",
-      "price": 15.90,
-      "currency": "$",
-      "category": "Novels",
+      "title": "Помни о смерти",
+      "author": "Мюриэл Спарк",
+      "image": "https://s1.livelib.ru/boocover/1002476192/o/fdcd/Muriel_Spark__Memento_Mori.jpeg",
+      "price": 899,
+      "currency": "₽",
+      "category": "Новелы",
       "isbn13": 9780811223041,
       "publisher": "New Directions Publishing Corporation",
-      "description": "In late 1950s London, something uncanny besets a group of elderly friends."
+      "description": "В конце 1950-х в Лондоне группу пожилых друзей окружает что-то сверхъестественное..."
     },
 
     {
-      "title": "Atlas of AI",
-      "author": "Kate Crawford",
-      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603542518l/50131136._SX318_.jpg",
-      "price": 25.76,
-      "currency": "$",
-      "category": "Nonfiction > Technology",
+      "title": "Атлас ИИ",
+      "author": "Кейт Кроуфорд",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6y8c_v5dw9KEKBW8-SvY_URXKRSDHY6wp7AeSO37ELKUFXlMv",
+      "price": 1999,
+      "currency": "₽",
+      "category": "Документальная литература > Технологии",
       "publisher": "Yale University Press",
       "isbn13": 9780300209570,
-      "description": "The hidden costs of artificial intelligence--from natural resources and labor to privacy, equality, and freedom"
+      "description": "Книга основана на исследованиях Кроуфорда в области разработки и работы искусственного интеллекта, а также влияния ИИ на мир."
     }
   ]
 }

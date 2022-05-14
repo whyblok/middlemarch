@@ -1,20 +1,20 @@
 .container {
   max-width: 960px;
-  background: #111222;
+  background: #1d1f3b;
   position: sticky;
-  color: #ccc;
+  color: rgb(124, 116, 133);
   z-index: 2000;
   padding-bottom: 50px;
 }
 
 h4, h4 .text-primary {
-  color: #e6ee9c !important;
+  color: #cc8de6 !important;
 }
 
 .form-control {
   font-size: 1rem;
   background-color: rgba(0,0,0,.2);
-  color: #ccc;
+  color: rgb(204, 204, 204);
   border: 1px solid #656;
 }
 
